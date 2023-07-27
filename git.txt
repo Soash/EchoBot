@@ -7,4 +7,4 @@ git status
 git add -A
 
 git commit -m "Your commit message here"
-git push origin <branch_name>
+git push origin branch_name
