@@ -6,14 +6,11 @@ python -m virtualenv -p C:\Users\user\AppData\Local\Programs\Python\Python311\py
 venv\Scripts\activate
 deactivate
 
-pip -V
 python -V
 
-pip install package_name
+pip -V
 pip list
+pip install package_name
 
 pip install pipreqs
 pipreqs
-pip install -r requirements.txt
-
-
