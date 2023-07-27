@@ -12,11 +12,8 @@ python -V
 pip install package_name
 pip list
 
-
-
 pip install pipreqs
 pipreqs
 pip install -r requirements.txt
-
 
 

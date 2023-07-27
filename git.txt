@@ -2,3 +2,9 @@ git config --global user.name Soash
 git config --global user.email soash2002@gmail.com
 
 git init
+
+git status
+git add -A
+
+git commit -m "Your commit message here"
+git push origin <branch_name>
