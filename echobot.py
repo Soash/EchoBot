@@ -13,7 +13,3 @@ if __name__ == "__main__":
         if text.lower() == 'q':
             break 
         text_to_speech(text)
-
-
-
-
